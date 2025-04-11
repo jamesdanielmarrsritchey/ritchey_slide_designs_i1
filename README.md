@@ -1,1 +1,3 @@
-# ritchey_slide_designs_i1
+# Readme
+
+This file is here for compatibility purposes. Read "/About.txt" instead.

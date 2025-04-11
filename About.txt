@@ -1,0 +1,30 @@
+# About
+
+NAME: Ritchey Slide Designs i1 v1
+IMPLEMENTATION: 1
+VERSION: 1
+LONG IDENTIFIER: Ritchey Slide Designs i1 v1
+SHORT IDENTIFIER: RSDi1v1
+AUTHOR: James Daniel Marrs Ritchey
+
+## Overview
+
+Ritchey Slide Designs is a collection of slide backgrounds, and related assets for use in slide show presentations.
+
+## Licensing
+
+This project is hereby licensed under the Ritchey Permissive License v19.
+
+## History
+
+Releases:
+- Project started April 11, 2025.
+- Version 1 completed April 11, 2025.
+
+Highlighted Changes:
+- 
+
+## Notes
+
+List of Notes:
+-  
